@@ -1,0 +1,37 @@
+{
+  "ecmaVersion": 5,
+  "ide": {
+    "scriptPaths": [
+      {
+        "type": "FOLDER",
+        "path": "app/scripts/controllers"
+      },
+      {
+        "type": "FOLDER",
+        "path": "app/scripts/directives"
+      },
+      {
+        "type": "FOLDER",
+        "path": "app/scripts/filters"
+      },
+      {
+        "type": "FOLDER",
+        "path": "app/scripts/services"
+      }
+    ]
+  },
+  "plugins": {
+    "guess-types": {
+      
+    },
+    "outline": {
+      
+    },
+    "angular1": {
+      
+    }
+  },
+  "libs": [
+    "browser"
+  ]
+}
